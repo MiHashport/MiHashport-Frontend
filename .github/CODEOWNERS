@@ -1,0 +1,14 @@
+# CODEOWNERS file to automatically request reviews from the correct maintainers
+# when specific directories are modified.
+
+# UI/UX and styling changes to global primitives should be reviewed by UI maintainers
+# to ensure design system consistency and prevent component duplication.
+/src/components/ui/ @Muhammadcodes112 @chillwur
+
+# Changes to shared libraries, helpers, and the core API client should be reviewed
+# by core architecture owners to verify safety, error handling, and API compatibility.
+/src/lib/ @Muhammadcodes112 @chillwur
+
+# Repository configuration, CI workflows, and issue/PR templates should be reviewed
+# by repository administrators to ensure project setup and pipeline stability.
+/.github/ @Muhammadcodes112 @chillwur
