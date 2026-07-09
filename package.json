@@ -2,6 +2,20 @@
   "name": "mihashport-frontend",
   "version": "0.1.0",
   "private": true,
+  "description": "package.json is currently missing descriptive metadata fields useful for npm/GitHub display and tooling.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammadcodes112/MiHashport-Frontend.git"
+  },
+  "homepage": "https://github.com/Muhammadcodes112/MiHashport-Frontend#readme",
+  "keywords": [
+    "mihashport",
+    "hashport",
+    "frontend",
+    "nextjs",
+    "react"
+  ],
+  "author": "Muhammadcodes112",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
