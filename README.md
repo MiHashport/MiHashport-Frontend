@@ -128,3 +128,7 @@ docs/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Contributing
+
+Issues labeled `good first issue` are a great place to start. PRs welcome!
