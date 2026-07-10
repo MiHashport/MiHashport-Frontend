@@ -1,5 +1,8 @@
 # MiHashport Frontend
 
+[![CI](https://github.com/eismaelmohd-del/MiHashport-Frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/eismaelmohd-del/MiHashport-Frontend/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Chat. Build. Pay. On Stellar — the web companion for the WhatsApp-native MiHashport wallet.
 
 ## Part of MiHashport
