@@ -131,6 +131,12 @@ docs/
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — community standards for this repository
 - [AGENTS.md](AGENTS.md) — rules for AI coding agents contributing here
 
+## Getting help
+
+If you have questions, run into issues, or want to suggest improvements, please open an issue or start a discussion on our [GitHub Issues](https://github.com/Muhammadcodes112/MiHashport-Frontend/issues).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
