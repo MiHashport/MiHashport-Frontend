@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: MiHashport Backend Issues
+    url: https://github.com/MiHashport/MiHashport-Backend/issues
+    about: Report bugs or request features related to the WhatsApp conversational flow, bot behaviour, or backend server.
+  - name: MiHashport Contract Issues
+    url: https://github.com/MiHashport/MiHashport-Contract/issues
+    about: Report issues or request features related to Stellar Soroban smart contracts.
