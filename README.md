@@ -122,6 +122,7 @@ docs/
 ## More docs
 
 - [docs/PLAN.md](docs/PLAN.md) — implementation plan and phase breakdown
+- [docs/RELEASES.md](docs/RELEASES.md) — release status and criteria for first tag
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to find work and submit changes
 - [AGENTS.md](AGENTS.md) — rules for AI coding agents contributing here
 
