@@ -123,6 +123,7 @@ docs/
 
 - [docs/PLAN.md](docs/PLAN.md) — implementation plan and phase breakdown
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to find work and submit changes
+- [SECURITY.md](SECURITY.md) — security policy and reporting guidelines
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — community standards for this repository
 - [AGENTS.md](AGENTS.md) — rules for AI coding agents contributing here
 
