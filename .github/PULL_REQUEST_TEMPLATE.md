@@ -1,3 +1,5 @@
+<!-- Note: Reviewers will be automatically requested based on the path ownership defined in .github/CODEOWNERS -->
+
 ## Closes
 Closes #<issue-number>
 
