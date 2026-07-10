@@ -125,6 +125,7 @@ docs/
 ## More docs
 
 - [docs/PLAN.md](docs/PLAN.md) — implementation plan and phase breakdown
+- [docs/RELEASES.md](docs/RELEASES.md) — release status and criteria for first tag
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to find work and submit changes
 - [CHANGELOG.md](CHANGELOG.md) — record of notable changes and releases
 - [SECURITY.md](SECURITY.md) — security policy and reporting guidelines
